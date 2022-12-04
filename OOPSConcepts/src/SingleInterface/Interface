@@ -1,0 +1,6 @@
+Why we use interface????
+
+	To achieve security-Abstraction of data by showing necessary data only.
+	Java classes don't support multiple inheritence in java however we can achieve it but implementing interface
+	From Java 8 onwards , we can define implementation of interface methods by using static and default keywords in methods....
+	
